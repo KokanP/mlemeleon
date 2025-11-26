@@ -1,3 +1,7 @@
+# Gemini-specific files
+gemini.md
+tmp/
+
 # Logs
 logs
 *.log
