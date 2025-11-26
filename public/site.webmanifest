@@ -1,0 +1,26 @@
+{
+    "name": "Mlemeleon",
+    "short_name": "Mlemeleon",
+    "description": "Something colorful is blending in soon...",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#1a1a1a",
+    "theme_color": "#1a1a1a",
+    "icons": [
+      {
+        "src": "/favicon/favicon.svg",
+        "sizes": "any",
+        "type": "image/svg+xml"
+      },
+      {
+        "src": "/favicon/web-app-manifest-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/favicon/web-app-manifest-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
